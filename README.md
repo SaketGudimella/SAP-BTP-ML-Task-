@@ -2,7 +2,7 @@
  
 ### What this is 
 
-This sample shows how to deploy and run a machine learning model on **SAP Business Technology Platform (BTP)** using Cloud Foundry.
+This sample shows how to deploy and run a machine learning model on **SAP Business Technology Platform (BTP)** using Cloud Foundry. 
 
 ### Key Files Needed
 
