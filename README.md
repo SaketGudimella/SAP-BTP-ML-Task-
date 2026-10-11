@@ -1,4 +1,4 @@
-## SAP BTP Machine Learning Deployment – Simple Guide
+## SAP BTP Machine Learning Deployment – Simple Guide 
  
 ### What this is   
 
